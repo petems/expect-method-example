@@ -5,4 +5,7 @@ build:
 		-o "./$(CLI_NAME)" \
 		./main.go
 
+test:
+	go test
+
 .DEFAULT_GOAL := build

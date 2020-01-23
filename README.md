@@ -1,5 +1,5 @@
 # expect-method-example
 
-Trying to get https://github.com/Netflix/go-expect/ to work with functions. 
+A basic example of how https://github.com/Netflix/go-expect/ works with functions. 
 
-Not working yet :( 
+It now works! Thanks to @hinshun who helped me.
